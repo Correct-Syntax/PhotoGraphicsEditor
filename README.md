@@ -6,6 +6,8 @@ PhotoGraphics Editor is a free and open-source image and texture editing program
 
 See the documentation (docs/index.html) for information.
 
+This source code is from 2018 so it probably requires an older version of Python, etc.
+
 
 ## License 
 
