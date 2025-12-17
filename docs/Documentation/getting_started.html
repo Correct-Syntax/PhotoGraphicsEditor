@@ -1,0 +1,170 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Getting Started Using PhotoGraphics Editor &#8212; PhotoGraphics Editor 1.0.0 documentation</title>
+    <link rel="stylesheet" href="_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Installing PhotoGraphics Editor" href="installation.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="installation.html" title="Installing PhotoGraphics Editor"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">PhotoGraphics Editor 1.0.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="getting-started-using-photographics-editor">
+<h1>Getting Started Using PhotoGraphics Editor<a class="headerlink" href="#getting-started-using-photographics-editor" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="concepts">
+<h2>Concepts<a class="headerlink" href="#concepts" title="Permalink to this headline">¶</a></h2>
+<p>PhotoGraphics Editor is based on a few main concepts:</p>
+<ul class="simple">
+<li>“Flat”, non-blocking layout</li>
+<li>Property &amp; Modifier driven</li>
+</ul>
+<div class="section" id="flat-non-blocking-layout">
+<h3>“Flat”, non-blocking layout<a class="headerlink" href="#flat-non-blocking-layout" title="Permalink to this headline">¶</a></h3>
+<p>“Flat” layout means that the whole UI stays as one “flat” window and does not have multiple windows which popup to “block” the UI. (This concept should be familiar to Blender 3D users.)</p>
+<p>PhotoGraphics Editor is not totally a “Flat”, non-blocking layout because of the filedialogs and messageboxes, but it is planned to eventually get there in the future.</p>
+</div>
+<div class="section" id="property-modifier-driven">
+<h3>Property &amp; Modifier driven<a class="headerlink" href="#property-modifier-driven" title="Permalink to this headline">¶</a></h3>
+<p>Instead of having menus for every option, PhotoGraphics Editor uses a system of “types” to organize the UI.</p>
+<p>The three types used are:</p>
+<ul class="simple">
+<li>property types</li>
+<li>modifier types</li>
+<li>docker types</li>
+</ul>
+<p><em>Property type</em> are an organized panel of options which can be used at almost any time during image editing, but are always a part of the UI and cannot be removed by the user.</p>
+<p><em>Modifier type</em> are an organized panel of options for a tool which must be selected and directly applied to the image. After use, they are automatically removed from the modifier stack, but they can also be removed or canceled by the user.</p>
+<p><em>Docker type</em> are a special panel (called docks) which show information about the image, etc.; they are always a part of the UI and cannot be removed by the user. However, they can be rearranged into any stacking order by the user.</p>
+</div>
+</div>
+<div class="section" id="a-look-at-the-user-interface">
+<h2>A Look At The User Interface<a class="headerlink" href="#a-look-at-the-user-interface" title="Permalink to this headline">¶</a></h2>
+<p>PhotoGraphics Editor UI is divided up into five main parts:</p>
+<ul class="simple">
+<li>topbar</li>
+<li>canvas</li>
+<li>docker panel</li>
+<li>property panel</li>
+<li>statusbar</li>
+</ul>
+<div class="section" id="topbar">
+<h3>Topbar<a class="headerlink" href="#topbar" title="Permalink to this headline">¶</a></h3>
+<p>The topbar is the place for the program decorations and global program options (help, about, documentation, etc).</p>
+</div>
+<div class="section" id="canvas">
+<h3>Canvas<a class="headerlink" href="#canvas" title="Permalink to this headline">¶</a></h3>
+<p>The canvas is where the current image is shown. The scrollbars around the canvas allow for scrolling across the image when it is zoomed in.</p>
+</div>
+<div class="section" id="docker-panel">
+<h3>Docker panel<a class="headerlink" href="#docker-panel" title="Permalink to this headline">¶</a></h3>
+<p>The docker panel is where the rearrangable dockers reside.</p>
+</div>
+<div class="section" id="property-panel">
+<h3>Property panel<a class="headerlink" href="#property-panel" title="Permalink to this headline">¶</a></h3>
+<p>The property panel is where the user can access the tabs of different types of property or modifiers.</p>
+</div>
+<div class="section" id="statusbar">
+<h3>Statusbar<a class="headerlink" href="#statusbar" title="Permalink to this headline">¶</a></h3>
+<p>The statusbar is the where info about the image and hints on usage of the property and modifier types will appear.</p>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Getting Started Using PhotoGraphics Editor</a><ul>
+<li><a class="reference internal" href="#concepts">Concepts</a><ul>
+<li><a class="reference internal" href="#flat-non-blocking-layout">“Flat”, non-blocking layout</a></li>
+<li><a class="reference internal" href="#property-modifier-driven">Property &amp; Modifier driven</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#a-look-at-the-user-interface">A Look At The User Interface</a><ul>
+<li><a class="reference internal" href="#topbar">Topbar</a></li>
+<li><a class="reference internal" href="#canvas">Canvas</a></li>
+<li><a class="reference internal" href="#docker-panel">Docker panel</a></li>
+<li><a class="reference internal" href="#property-panel">Property panel</a></li>
+<li><a class="reference internal" href="#statusbar">Statusbar</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="installation.html"
+                        title="previous chapter">Installing PhotoGraphics Editor</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/getting_started.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="installation.html" title="Installing PhotoGraphics Editor"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">PhotoGraphics Editor 1.0.0 documentation</a> &#187;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2019, Noah Rahm.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.2.
+    </div>
+  </body>
+</html>

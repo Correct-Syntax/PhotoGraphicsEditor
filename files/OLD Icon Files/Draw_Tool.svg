@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="G:\DEVELOPMENT\PhotoGraphics Editor\MAIN\lib\data\icons\menu_icons\Draw.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Draw_Tool.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="16.157129"
+     inkscape:cy="6.7018724"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <g
+       id="Page-1"
+       transform="matrix(0.15925413,-0.0238676,0.02416183,0.1573148,0.38859923,293.39871)"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         transform="translate(-180,-2319)"
+         id="Dribbble-Light-Preview"
+         style="fill:#4d4d4d">
+        <g
+           transform="translate(56,160)"
+           id="icons"
+           style="fill:#4d4d4d">
+          <path
+             id="pen-[#1319]"
+             d="m 138.22971,2163.463 1.41844,-1.486 1.42247,1.489 -1.41945,1.486 z m -10.30913,13.773 -1.42247,-1.489 10.31013,-10.795 1.42147,1.488 z M 139.82106,2159 124,2175.747 122.9083,2180.3031 127.92058,2179 144,2162.859 Z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccccccc"
+             style="fill:#4d4d4d" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

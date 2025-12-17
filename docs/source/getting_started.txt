@@ -1,0 +1,82 @@
+Getting Started Using PhotoGraphics Editor 
+==========================================
+
+========
+Concepts
+========
+
+PhotoGraphics Editor is based on a few main concepts:
+
+* "Flat", non-blocking layout
+* Property & Modifier driven
+
+***************************
+"Flat", non-blocking layout
+***************************
+
+"Flat" layout means that the whole UI stays as one "flat" window and does not have multiple windows which popup to "block" the UI. (This concept should be familiar to Blender 3D users.)
+
+PhotoGraphics Editor is not totally a "Flat", non-blocking layout because of the filedialogs and messageboxes, but it is planned to eventually get there in the future.
+
+**************************
+Property & Modifier driven
+**************************
+
+Instead of having menus for every option, PhotoGraphics Editor uses a system of "types" to organize the UI. 
+
+The three types used are: 
+
+* property types
+* modifier types 
+* docker types
+
+*Property type* are an organized panel of options which can be used at almost any time during image editing, but are always a part of the UI and cannot be removed by the user.
+
+*Modifier type* are an organized panel of options for a tool which must be selected and directly applied to the image. After use, they are automatically removed from the modifier stack, but they can also be removed or canceled by the user.
+
+*Docker type* are a special panel (called docks) which show information about the image, etc.; they are always a part of the UI and cannot be removed by the user. However, they can be rearranged into any stacking order by the user.
+
+============================
+A Look At The User Interface
+============================
+
+PhotoGraphics Editor UI is divided up into five main parts:
+
+* topbar
+* canvas
+* docker panel
+* property panel
+* statusbar
+
+******
+Topbar
+******
+
+The topbar is the place for the program decorations and global program options (help, about, documentation, etc).
+
+******
+Canvas
+******
+
+The canvas is where the current image is shown. The scrollbars around the canvas allow for scrolling across the image when it is zoomed in.
+
+************
+Docker panel
+************
+
+The docker panel is where the rearrangable dockers reside. 
+
+**************
+Property panel
+**************
+
+The property panel is where the user can access the tabs of different types of property or modifiers. 
+
+*********
+Statusbar
+*********
+
+The statusbar is the where info about the image and hints on usage of the property and modifier types will appear.
+
+
+

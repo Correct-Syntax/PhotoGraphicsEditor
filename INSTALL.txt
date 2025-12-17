@@ -1,0 +1,1 @@
+See "docs/Documentation/installation.html" for information on installing PhotoGraphics Editor

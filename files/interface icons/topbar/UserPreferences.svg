@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="UserPreferences.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="G:\PYTHON\PROJECTS\PhotoGraphics Editor 1.1\source\windows\lib\datafiles\icons\interface\UserPreferences.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="16.68772"
+     inkscape:cx="5.0625325"
+     inkscape:cy="6.2665688"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g349" />
+  <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g349"
+     transform="matrix(0.10062682,0,0,0.1015625,-30.252045,2.3051837)">
+    <g
+       id="icomoon-ignore" />
+    <g
+       id="g528"
+       transform="matrix(1.1633674,-0.43687611,0.44630509,1.1600658,-39.145653,116.47756)"
+       inkscape:transform-center-x="-1.1601951"
+       inkscape:transform-center-y="0.78879623"
+       style="fill:#4d4d4d">
+      <g
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1"
+         transform="matrix(2.0471729,2.1019686,-2.1070036,2.2595031,378.83246,28.901279)"
+         id="Page-1">
+        <g
+           style="fill:#4d4d4d"
+           id="Dribbble-Light-Preview"
+           transform="translate(-259,-840)">
+          <g
+             style="fill:#4d4d4d"
+             id="icons"
+             transform="translate(56,160)">
+            <path
+               style="fill:#4d4d4d"
+               inkscape:connector-curvature="0"
+               d="m 211.26107,690.69476 c -1.63801,1.55967 -4.29426,1.55967 -5.93226,0 l -1.71456,-1.63256 c -0.819,-0.77983 -0.819,-2.04394 0,-2.82378 0.819,-0.77983 2.14765,-0.77983 2.96666,0 1.14094,1.08638 2.39198,0.98653 3.1963,0.21968 0.81062,-0.77185 0.90814,-1.96007 -0.23594,-3.04845 -0.81901,-0.77983 -0.81901,-2.04494 0,-2.82477 0.82005,-0.77984 2.14765,-0.77984 2.96665,0 l 1.71875,1.63655 c 1.638,1.55967 1.638,4.08889 0,5.64856 l 9.12962,8.694 c 1.96203,1.86721 -1.00567,4.68999 -2.96561,2.82378 z"
+               id="settings-[#1365]" />
+          </g>
+        </g>
+      </g>
+      <rect
+         y="35.388767"
+         x="360.88727"
+         height="17.641281"
+         width="12.303159"
+         id="rect469"
+         style="fill:#4d4d4d;stroke-width:5.39711094" />
+      <rect
+         y="35.388767"
+         x="384.7352"
+         height="17.641281"
+         width="12.303159"
+         id="rect469-3"
+         style="fill:#4d4d4d;stroke-width:5.39711094" />
+      <g
+         style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1"
+         transform="matrix(-2.0424042,-2.1065176,2.1121188,-2.25481,380.08484,163.37521)"
+         id="Page-1-7">
+        <g
+           style="fill:#4d4d4d"
+           id="Dribbble-Light-Preview-3"
+           transform="translate(-259,-840)">
+          <g
+             style="fill:#4d4d4d"
+             id="icons-5"
+             transform="translate(56,160)">
+            <path
+               style="fill:#4d4d4d"
+               inkscape:connector-curvature="0"
+               d="m 211.26107,690.69476 c -1.63801,1.55967 -4.29426,1.55967 -5.93226,0 l -1.71456,-1.63256 c -0.819,-0.77983 -0.819,-2.04394 0,-2.82378 0.819,-0.77983 2.14765,-0.77983 2.96666,0 1.14094,1.08638 2.39198,0.98653 3.1963,0.21968 0.81062,-0.77185 0.90814,-1.96007 -0.23594,-3.04845 -0.81901,-0.77983 -0.81901,-2.04494 0,-2.82477 0.82005,-0.77984 2.14765,-0.77984 2.96665,0 l 1.71875,1.63655 c 1.638,1.55967 1.638,4.08889 0,5.64856 l 9.12962,8.694 c 1.96203,1.86721 -1.00567,4.68999 -2.96561,2.82378 z"
+               id="settings-[#1365]-8" />
+          </g>
+        </g>
+      </g>
+      <rect
+         transform="matrix(-0.99999753,-0.00222466,0.00226622,-0.99999743,0,0)"
+         y="-156.04175"
+         x="-398.39929"
+         height="17.641281"
+         width="12.303157"
+         id="rect469-1"
+         style="fill:#4d4d4d;stroke-width:5.39711094" />
+      <rect
+         transform="matrix(-0.99999753,-0.00222466,0.00226622,-0.99999743,0,0)"
+         y="-156.04175"
+         x="-374.55136"
+         height="17.641281"
+         width="12.303157"
+         id="rect469-3-9"
+         style="fill:#4d4d4d;stroke-width:5.39711094" />
+    </g>
+    <g
+       id="Page-1-0"
+       transform="matrix(6.1054838,0,0,5.8249578,309.10844,40.729871)"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         transform="translate(-180,-1119)"
+         id="Dribbble-Light-Preview-8"
+         style="fill:#4d4d4d">
+        <g
+           transform="translate(56,160)"
+           id="icons-53"
+           style="fill:#4d4d4d">
+          <path
+             id="database_system-[#1798]"
+             d="m 130,973.0005 h -2 v -4 h 12 v 4 h -2 v -2 h -8 z m -4,-12 h 16 v -2 h -16 z m 0,16 h 16 v -12 h -16 z m -2,2 h 20 v -16 h -20 z"
+             inkscape:connector-curvature="0"
+             style="fill:#4d4d4d" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

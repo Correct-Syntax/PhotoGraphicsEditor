@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="F:\DEVELOPMENT\MAIN_DEVELOPMENT\MAIN\lib\data\icons\menus\Documentation.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Documentation_Icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="6.6724712"
+     inkscape:cy="5.9320951"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="892"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.29398069"
+       id="rect19"
+       width="3.6947968"
+       height="2.8178091"
+       x="0.24430561"
+       y="293.45312" />
+    <g
+       id="Page-1"
+       transform="matrix(0.18473984,0,0,0.1408912,0.24430561,293.45311)"
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         transform="translate(-60,-7159)"
+         id="Dribbble-Light-Preview"
+         style="fill:#4d4d4d">
+        <g
+           transform="translate(56,160)"
+           id="icons"
+           style="fill:#4d4d4d">
+          <path
+             id="browser-[#233]"
+             d="m 10,7003 h 12 v -2 H 10 Z m -4,14 h 16 v -12 H 6 Z m 0,-14 h 2 v -2 H 6 Z m -2,16 h 20 v -20 H 4 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#4d4d4d" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

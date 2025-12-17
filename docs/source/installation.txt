@@ -1,0 +1,53 @@
+Installing PhotoGraphics Editor 
+===============================
+
+.. note::
+
+  Currently, the only platform that is fully supported is Windows 32-bit.
+  
+  We need packages to be made for the following platforms: Windows 64-bit, Linux (and Mac?)
+
+=======
+Windows
+=======
+
+Download the .zip file from the website, extract, double-click the .exe file and enjoy!
+
+=====
+Linux
+=====
+
+There isn't a package for Linux yet so it must be built from source.
+
+On Linux Ubuntu, it may be just easier to install the Python Andaconda environment to satisfy the requirements.
+
+.. seealso::
+
+  *Building From Source Code* below.
+
+===
+Mac
+===
+There isn't a package for Mac so it must be built from source.
+
+.. seealso::
+
+  *Building From Source Code* below.
+
+=========================
+Building From Source Code
+=========================
+
+**Minimum requirements:**
+
+* Python 3.4.3 or higher
+* tkinter (Tk 8.6.1)
+* PIL 4.0.0 or higher
+* Scipy 0.15.0 or higher
+* Numpy 1.8.1 or higher
+
+Install the requirements listed above and run "PhotoGraphics Editor <versionstring>.py". tkinter should come with the Python distrubution; if not
+you will have to install and build it yourself. Since it is pure-python, there are no files to compile manually.
+
+.. warning::
+  PhotoGraphics Editor may not run on Mac or Linux out-of-the-box because of some Windows-only features that need to be adjusted.

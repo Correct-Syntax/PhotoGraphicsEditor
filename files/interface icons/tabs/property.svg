@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="G:\PYTHON\DEVELOPMENT PROJECTS\PhotoGraphics Editor 1.1\lib\datafiles\icons\interface\Property.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="property.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter2037">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur2027" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="diffuse"
+         id="feDiffuseLighting2031">
+        <feDistantLight
+           elevation="108"
+           azimuth="76"
+           id="feDistantLight2029" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite2033"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite2035"
+         k2="0"
+         k4="0" />
+    </filter>
+    <filter
+       inkscape:label="Button"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
+       style="color-interpolation-filters:sRGB;"
+       id="filter3763">
+      <feGaussianBlur
+         stdDeviation="2.3"
+         in="SourceAlpha"
+         result="result0"
+         id="feGaussianBlur3737" />
+      <feMorphology
+         in="SourceAlpha"
+         radius="6.6"
+         result="result1"
+         id="feMorphology3739" />
+      <feGaussianBlur
+         stdDeviation="8.9"
+         in="result1"
+         id="feGaussianBlur3741" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91"
+         id="feColorMatrix3743" />
+      <feComposite
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91"
+         id="feComposite3745" />
+      <feGaussianBlur
+         stdDeviation="1.7"
+         result="result4"
+         id="feGaussianBlur3747" />
+      <feDiffuseLighting
+         surfaceScale="10"
+         id="feDiffuseLighting3751">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight3749" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="SourceGraphic"
+         mode="multiply"
+         id="feBlend3753" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="result3"
+         id="feComposite3755" />
+      <feSpecularLighting
+         in="result4"
+         surfaceScale="5"
+         specularExponent="17.9"
+         id="feSpecularLighting3759">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight3757" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result3"
+         operator="atop"
+         id="feComposite3761" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.8"
+     inkscape:cx="9.0279595"
+     inkscape:cy="9.6482611"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16566198;paint-order:markers fill stroke"
+       id="rect15344-8"
+       width="0.85454446"
+       height="3.4669449"
+       x="2.6736884"
+       y="293.17868" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30871487;paint-order:markers fill stroke"
+       id="rect15474-2-1"
+       width="0.17127044"
+       height="1.2822851"
+       x="-2.8137152"
+       y="-294.20703"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15775707;paint-order:markers fill stroke"
+       id="rect15344-8-6"
+       width="0.85454452"
+       height="3.1439745"
+       x="3.0453839"
+       y="293.54605" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26749337;paint-order:markers fill stroke"
+       id="rect15344"
+       width="2.183367"
+       height="3.5378153"
+       x="0.68098378"
+       y="293.10782" />
+    <g
+       id="g15170"
+       transform="matrix(-0.01215911,0,0,0.01066972,6.5646036,291.40066)"
+       style="fill:#666666">
+      <g
+         id="icomoon-ignore"
+         style="fill:#666666" />
+      <path
+         id="path15158"
+         d="M 320,128 V 0 H 96 L 0,96 V 384 H 192 V 512 H 512 V 128 Z M 96,45.255 V 96 H 45.255 Z M 32,352 V 128 h 96 V 32 h 160 v 96 l -96,96 V 352 Z M 288,173.255 V 224 H 237.255 Z M 480,480 H 224 V 256 h 96 v -96 h 160 z"
+         inkscape:connector-curvature="0"
+         style="fill:#666666" />
+    </g>
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.3563509"
+       id="path3963"
+       cx="8.6320925"
+       cy="293.38474"
+       rx="0.41687113"
+       ry="0.39476463" />
+    <rect
+       style="fill:#ffffff;stroke-width:2.01196265"
+       id="rect3965"
+       width="0.58150595"
+       height="2.164284"
+       x="8.3482618"
+       y="293.97626" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.62050301;paint-order:markers fill stroke"
+       id="rect15474"
+       width="0.25985864"
+       height="3.4143071"
+       x="0.56286621"
+       y="293.10782" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.564731;paint-order:markers fill stroke"
+       id="rect15474-2"
+       width="0.34844679"
+       height="2.109108"
+       x="292.92474"
+       y="-2.6719742"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36918634;paint-order:markers fill stroke"
+       id="rect15474-2-1-7"
+       width="0.2362351"
+       height="1.3295321"
+       x="-294.20703"
+       y="2.6424448"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5037415;paint-order:markers fill stroke"
+       id="rect15474-2-1-7-0"
+       width="0.2362351"
+       height="2.4752724"
+       x="3.7357419"
+       y="294.20703" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52141559;paint-order:markers fill stroke"
+       id="rect15474-2-1-7-0-5"
+       width="0.33663502"
+       height="1.8610611"
+       x="296.35031"
+       y="-3.9720576"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3707158;paint-order:markers fill stroke"
+       id="rect15474-2-1-7-0-5-2"
+       width="0.37207028"
+       height="0.85115594"
+       x="296.31784"
+       y="-1.4089067"
+       transform="rotate(90)" />
+    <g
+       id="g15384">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4190"
+         d="m 0.97695829,293.5186 0.30884801,0.006 c 0.2345446,-0.0585 -0.262498,1.18176 0.4370349,1.21784 l -0.8826151,-0.0184 c -0.024885,-0.40491 -0.0317916,-1.17232 0.13673219,-1.20542 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.30073157;paint-order:markers fill stroke"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4190-9"
+         d="m 2.1574384,293.54479 c 0.1579304,-0.0713 0.2599485,-0.10952 0.4801183,0.006 0.088005,0.40999 -2.219e-4,0.89067 0,1.35718 l -0.9147155,-0.16544 c 0.6872408,0.013 0.3424539,-1.01062 0.4345972,-1.19765 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.31443575;paint-order:markers fill stroke"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4190-1"
+         d="m 2.6434624,294.72412 c 0.00499,0.16213 -0.037574,0.30468 -0.088588,0.3968 -0.070849,0.14815 -1.256246,0.28224 -1.62015405,-0.0236 -0.0776087,-0.18977 -0.0835435,-0.2245 -0.094494,-0.37318 0.52544256,-0.0742 1.12113186,0.0426 1.80323626,0 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.33391723;paint-order:markers fill stroke"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4190-4"
+         d="m 1.411251,295.1323 c 0.233753,0 0.4675058,0 0.7012587,0 0,0.88149 0,1.76299 0,2.64448 -0.2337529,0 -0.4675057,0 -0.7012587,0 0,-0.88149 0,-1.76299 0,-2.64448 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.49516559;paint-order:markers fill stroke" />
+    </g>
+  </g>
+</svg>

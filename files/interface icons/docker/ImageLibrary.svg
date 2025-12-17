@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   viewBox="0 0 3.1749999 3.1750001"
+   version="1.1"
+   id="svg11554"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ImageLibrary.svg"
+   inkscape:export-filename="G:\PYTHON\PROJECTS\PhotoGraphics Editor 1.1\source\windows\lib\datafiles\icons\interface\ImageLibraryDocker.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs11548">
+    <symbol
+       id="UpArrow">
+      <title
+         id="title12913">Up Arrow</title>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 9.525,2.38125 5.820833,5.8208333 V 12.170833 L 11.1125,7.9375 v 8.466667 H 7.9375 V 7.9375 L 3.7041667,12.170833 V 8.2020833 Z"
+         style="stroke:none;stroke-width:0.26458332"
+         id="path12915" />
+    </symbol>
+    <symbol
+       id="DownArrow">
+      <title
+         id="title12961">Down Arrow</title>
+      <path
+         inkscape:connector-curvature="0"
+         d="M 9.525,16.66875 3.7041667,10.847917 V 6.8791667 L 7.9375,11.1125 V 2.6458333 h 3.175 V 11.1125 l 4.233333,-4.2333333 v 3.9687503 z"
+         style="stroke:none;stroke-width:0.26458332"
+         id="path12963" />
+    </symbol>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter1117">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur1107" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="diffuse"
+         id="feDiffuseLighting1111">
+        <feDistantLight
+           elevation="97"
+           azimuth="16"
+           id="feDistantLight1109" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite1113"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite1115"
+         k2="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter1129">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur1119" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="diffuse"
+         id="feDiffuseLighting1123">
+        <feDistantLight
+           elevation="97"
+           azimuth="16"
+           id="feDistantLight1121" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite1125"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite1127"
+         k2="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter1141">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur1131" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="diffuse"
+         id="feDiffuseLighting1135">
+        <feDistantLight
+           elevation="97"
+           azimuth="16"
+           id="feDistantLight1133" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite1137"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite1139"
+         k2="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter1153">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur1143" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="diffuse"
+         id="feDiffuseLighting1147">
+        <feDistantLight
+           elevation="97"
+           azimuth="16"
+           id="feDistantLight1145" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite1149"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite1151"
+         k2="0"
+         k4="0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="5.9857938"
+     inkscape:cy="8.7862132"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11551">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-293.82499)">
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:0.9182692;stroke:none;stroke-width:0.29134595;filter:url(#filter1117)"
+       id="rect820-5"
+       width="2.3073921"
+       height="2.3819003"
+       x="2.8306093"
+       y="291.8717"
+       transform="matrix(0.61088039,0,0,0.58552951,-0.03831235,123.07055)" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:0.9182692;stroke:none;stroke-width:0.29134595;filter:url(#filter1153)"
+       id="rect820-5-9"
+       width="2.3073921"
+       height="2.3819003"
+       x="0.20770808"
+       y="291.85846"
+       transform="matrix(0.61088039,0,0,0.58552951,-0.03831235,123.07055)" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:0.9182692;stroke:none;stroke-width:0.29134595;filter:url(#filter1129)"
+       id="rect820-5-3"
+       width="2.3073921"
+       height="2.3819003"
+       x="2.8220975"
+       y="294.46262"
+       transform="matrix(0.61088039,0,0,0.58552951,-0.03831235,123.07055)" />
+    <rect
+       style="opacity:0.95;fill:#666666;fill-opacity:0.9182692;stroke:none;stroke-width:0.29134595;filter:url(#filter1141)"
+       id="rect820-5-9-9"
+       width="2.3073921"
+       height="2.3819003"
+       x="0.19919643"
+       y="294.44937"
+       transform="matrix(0.61088039,0,0,0.58552951,-0.03831235,123.07055)" />
+  </g>
+</svg>

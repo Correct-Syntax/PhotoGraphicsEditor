@@ -1,0 +1,30 @@
+.. photographics editor documentation master file
+
+
+
+PhotoGraphics Editor 1.0.0 documentation
+===================================================
+
+=====
+About
+=====
+PhotoGraphics Editor is a free and open-source image and texture editing program written in the Python programming language. It also provides an API 
+for Python developers to write plugins for PhotoGraphics Editor using the built-in libraries.
+
+PhotoGraphics Editor is licensed under the GNU General Public License.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents:
+   
+   installation
+   getting_started
+  
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

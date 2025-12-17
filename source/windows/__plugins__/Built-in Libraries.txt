@@ -1,0 +1,9 @@
+## Built-in libraries included with PhotoGraphics Editor.exe ##
+
+PhotoGraphics Editor.exe includes a Python distribution which includes a library of the program's dependancies:
+> some of the Python standard library: tkinter, ctypes, collections...
+> scipy 
+> numpy
+> PIL
+
+There are also pre-built widgets (addons to tkinter)  in the PhotoGraphics Editor API (SWIFT) that you should use for UI...

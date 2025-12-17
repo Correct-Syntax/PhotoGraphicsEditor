@@ -1,0 +1,54 @@
+## Known Issues
+
+None....
+
+## History
+
+## Version 1.1.0 release
+- Total UI overhaul. GUI now uses mostly SWIFT widgets.
+- Program is now Property & Modifier driven, instead of Menu driven.
+- Reimplemented tools as Property or Modifier type
+- Implemented dockers: Image Library, Histogram & Preview.
+- New Function Filter Modifier.
+- New Generate Noise Image Property
+- Better method of rendering the main image and backgrounds, etc.
+- Optimized core image display functions.
+- Improved undo/redo cache.
+- Bug fixes.
+
+## Version 1.0.0 release
+- Bug fixes.
+- Fixed functionality and UI of Add Text tool.
+- Reimplemented Resize tool with better UI.
+- Added more settings in User Preferences.
+
+
+## Version 1.0.0 beta
+
+- Updated and improved GUI layout and design.
+- Layer Tool Implemented. This is similar to the previous "Overlay" tool.
+- Filters reimplemented with improved backend.
+- Improved Generate Normal Map Tool; added preview of normal map before saving it as an image, added progressbar as part of option panel, fixed some bugs.
+- Fixed bugs with the "Save Bitmap Copy" option. Now automaticly updates the filename number.
+- Fixed existing tooltips and added them for each option that needs them.
+- Image Properties will now show the proper image data for the image, even if the image is not saved yet.
+- New method for drawing with the Draw tool (a faster, but chunkier-looking implementation).
+- Initial implementation of the "Open From Folder" option. 
+- "Clear cache" option implemented.
+- Enhance Tool implemented.
+- Added keyboard shortcuts for actions in some tools.
+- The Cancel button for each tool actually does what it should.
+- Added option for configuring the Padding Color and whether to show\hide the Toolbar.
+- Update to the undo and redo cache system, fixed bugs.
+- Code reorganized and written in an object-oriented manner.
+- Optimized core image display functions.
+- Dropped support for editing GIF images (there are too many problems involved in supporting it fully right now).
+- Added better support for saving images as PS, GIF, ICO, PPM, and PCX files.
+- Better error handling for tools and main functions.
+
+
+## Version 1.0.0 alpha
+
+- Core functions and basic, rough implementation of program.
+
+

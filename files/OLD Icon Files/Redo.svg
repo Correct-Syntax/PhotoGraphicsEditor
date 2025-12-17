@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5309"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Redo.svg"
+   inkscape:export-filename="F:\DEVELOPMENT\Image Texture Editor 1.1x series\MAIN\lib\icons\menu_icons\Redo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs5303" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="6.948461"
+     inkscape:cy="10.678501"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5306">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <g
+       id="g5352"
+       transform="matrix(0.00674262,0,0,0.00756759,0.45380212,292.88275)"
+       style="fill:#4d4d4d">
+      <g
+         id="icomoon-ignore"
+         style="fill:#4d4d4d" />
+      <path
+         id="path5340"
+         d="m 0,288 c 0,76.462 33.524,145.092 86.675,192 l 42.333,-48 C 89.145,396.818 64,345.348 64,288 64,181.962 149.965,96 256,96 c 53.021,0 101.019,21.493 135.765,56.239 L 320,224 H 512 V 32 l -74.985,74.989 C 390.688,60.66 326.693,32 256,32 114.615,32 0,146.615 0,288 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#4d4d4d" />
+    </g>
+  </g>
+</svg>

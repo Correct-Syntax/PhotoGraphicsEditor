@@ -1,0 +1,16 @@
+## Opening:
+'JPEG Image (*.jpg *.jpeg *.jpe) ',
+'PNG Image (*.png) ',
+'TIFF Image (*.tiff *.tif) ',
+'Windows BMP Image (*.bmp) '
+
+## Saving:
+ 'GIF Image *.gif',
+'JPEG Image *.jpg *.jpeg *.jpe',
+'Microsoft Windows Icon *.ico',
+'PNG Image *.png',
+'PS Image *.ps',
+'PPM Image *.ppm',
+'TIFF Image *.tiff *.tif',
+'Windows BMP Image *.bmp',
+'PCX Image *.pcx'
